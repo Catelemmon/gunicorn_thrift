@@ -58,5 +58,8 @@ target/
 .*.swo
 .*.swo
 
+# Pycharm developers
+.idea/
+
 # Mr.developer ignores
 venv
